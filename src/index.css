@@ -29,7 +29,7 @@ html{
 
 ::-webkit-scrollbar{
   display: none;
-}
+}  
 
 body{
   background: var(--color-bg);
@@ -52,6 +52,7 @@ h1{
 }
 section{
   margin-top: 8rem;
+ 
 }
 section > h2, section >h5{
   text-align: center;
